@@ -1,5 +1,5 @@
 # HelloWorld
-Repositorio de prueba
+Test repository
 
 Hi buddies!
 
